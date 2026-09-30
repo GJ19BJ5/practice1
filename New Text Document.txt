@@ -3,12 +3,12 @@ PRACTICAL-1
 AIM: Perform operation using Linux commands.
 
 ls 
-It list downs files or directory.
+It list downs files or direc tory.
 Input: ls
 Output:
 
 2. pwd
-It's a present working directory, It shows in which directory you're.
+It's  present working directory, It shows  in which directory you're.
 Input: pwd
 Output:
 
@@ -18,7 +18,7 @@ Input: cd
 Output:
 
 4. cd ..
-It's used to go back to past directory.
+It's used to go back  past directory.
 Input: cd ..
 Output:
 
@@ -45,7 +45,7 @@ Output:
 9. cat
 It's used to write content in the file.
 Input: cat > pr1.txt
-          Hello! My self Yashvi Patel.
+          Hello ! My self Yashvi Patel.
           I am a first year B.Tech IT student in RNGPIT.
 Output:
 
