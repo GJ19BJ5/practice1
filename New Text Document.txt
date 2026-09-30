@@ -1,0 +1,55 @@
+PRACTICAL-1
+
+AIM: Perform operation using Linux commands.
+
+ls 
+It list downs files or directory.
+Input: ls
+Output:
+
+2. pwd
+It's a present working directory, It shows in which directory you're.
+Input: pwd
+Output:
+
+3. cd
+It's used to change current working directory.
+Input: cd
+Output:
+
+4. cd ..
+It's used to go back to past directory.
+Input: cd ..
+Output:
+
+5. cal
+It shows calendar.
+Input: cal
+Output:
+
+6. mkdir
+It's used to create new directory.
+Input: mkdir
+Output:
+
+7. rmdir
+It's used to remove already existing directory.
+Input: rmdir
+Output:
+
+8. touch
+It's used to create a file.
+Input: touch pr1.txt
+Output:
+
+9. cat
+It's used to write content in the file.
+Input: cat > pr1.txt
+          Hello! My self Yashvi Patel.
+          I am a first year B.Tech IT student in RNGPIT.
+Output:
+
+10. grep
+It's used to find out specific pattern from the file.
+Input: grep "self" pr1.txt
+Output:
